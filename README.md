@@ -6,7 +6,7 @@ To use this code yo will need to have [Node.js and npm](https://nodejs.org/en/do
 
 Moreover, if your are usin Gmail, your account must be set as "insecure": check [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps).
 
-## First, install dependencies
+## Install dependencies
 
 ```
 npm install
