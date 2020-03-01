@@ -1,0 +1,18 @@
+{
+  "author": "Rocky",
+  "dependencies": {
+    "nodemailer": "^6.4.3"
+  },
+  "description": "Send e-mail in HTML/CSS using Node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7Rocky/node-email.git"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "node-email",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "version": "1.0.0"
+}
