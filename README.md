@@ -2,9 +2,9 @@
 
 This project is used to send e-mails formatted in HTML/CSS via Node.js
 
-To use this code yo will need to have [Node.js and npm](https://nodejs.org/en/download/) installed.
+To use this code you will need to have [Node.js and npm](https://nodejs.org/en/download/) installed.
 
-Moreover, if your are usin Gmail, your account must be set as "insecure": check [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps).
+Moreover, if you are using Gmail, your account must be set as "insecure": check [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps).
 
 ## Install dependencies
 
