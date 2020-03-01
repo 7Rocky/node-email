@@ -47,7 +47,7 @@ const sendEmail = async (email, subject) => {
 
 (async () => {
   try {
-    const email = await readFile(EMAIL_FILE);
+    const email = await readFile(`templates/${EMAIL_FILE}`);
     sendEmail(email, SUBJECT);
   } catch (error) {
     console.log(error);
