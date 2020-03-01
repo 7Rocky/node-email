@@ -17,7 +17,7 @@ const transportOptions = {
 
 const readFile = async file => {
   return new Promise((resolve, reject) => {
-    fs.readFile(file, function(error, data) {
+    fs.readFile(file, (error, data) => {
       if (error) {
         reject(error);
       } else {
