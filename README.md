@@ -12,7 +12,7 @@ Moreover, if you are using Gmail, your account must be set as "insecure": check 
 npm install
 ```
 
-You will need to change the **sender** and **receiver** e-mails, as well as the **password** of the user (sender), and maybe the **subject** of the e-mail. This information is configured in module [src/constantsconstants.js](https://github.com/7Rocky/node-email/tree/master/src/constants/constants.js).
+You will need to change the **sender** and **receiver** e-mails, as well as the **password** of the user (sender), and maybe the **subject** of the e-mail. This information is configured in module [src/constants/constants.js](https://github.com/7Rocky/node-email/tree/master/src/constants/constants.js).
 
 ## Run the application
 
